@@ -1,4 +1,4 @@
-# vuecalismam
+# my-vue3-project
 
 ## Project setup
 ```
